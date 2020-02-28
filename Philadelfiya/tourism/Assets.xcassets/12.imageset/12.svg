@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="320px" viewBox="0 0 1024 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>fond triangles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="71.8970028%" y1="36.8130798%" x2="39.9667641%" y2="57.9147187%" id="linearGradient-1">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.1107104%" y1="28.2450473%" x2="56.7530565%" y2="66.4827513%" id="linearGradient-2">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.7771655%" y1="28.2622906%" x2="57.0866014%" y2="66.4655079%" id="linearGradient-3">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.8059337%" y1="29.6575179%" x2="120.481799%" y2="43.0021156%" id="linearGradient-4">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.8220527%" y1="38.8731324%" x2="90.3083856%" y2="17.7003435%" id="linearGradient-5">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="25.7249578%" y1="6.55790885%" x2="63.2361835%" y2="47.2660062%" id="linearGradient-6">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FEA704" offset="37.9818514%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="88.5355822%" y1="84.5513878%" x2="51.9176476%" y2="73.3226069%" id="linearGradient-7">
+            <stop stop-color="#FEA400" offset="0%"></stop>
+            <stop stop-color="#FFC72C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="fond-triangles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-video" fill-rule="nonzero">
+            <polygon id="Path-6-Copy-5" fill="url(#linearGradient-1)" points="900.035396 -36.1508861 252.596019 142.452879 424.420538 -499.246783"></polygon>
+            <polygon id="Path-6" fill="url(#linearGradient-2)" points="259.497246 -439.820463 -822.676344 -154.649046 -44.5695845 650.755095"></polygon>
+            <polygon id="Path-6-Copy-7" fill="url(#linearGradient-3)" points="2045.55953 -381.006681 1706.17201 925.740251 762.829306 -18.4681607"></polygon>
+            <polygon id="Path-6-Copy-4" fill="url(#linearGradient-4)" points="939.953327 -66.7730458 761.168434 620.372102 264.298764 123.884103"></polygon>
+            <polygon id="Path-6-Copy-6" fill="url(#linearGradient-5)" points="894.686092 106.307513 1207.27011 425.257727 778.692442 532.187853"></polygon>
+            <polygon id="Path-6-Copy" fill="url(#linearGradient-6)" points="478.06743 322.609493 12.2088812 451.047299 135.734678 -10.8071999"></polygon>
+            <polygon id="Path-6-Copy-2" fill="url(#linearGradient-7)" points="408.706298 -454.944007 269.154909 121.611371 -153.706943 -285.816612"></polygon>
+        </g>
+    </g>
+</svg>

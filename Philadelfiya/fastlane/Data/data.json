@@ -1,0 +1,21 @@
+{
+  "FASTLANE_USER": "kazimirkrymov@eunioner.info",
+  "FASTLANE_PASSWORD": "sfXPwL3?",
+  "FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD": "",
+  "app_identifier": "com.prevision.philadelphia",
+  "app_name": "Amazing Philadelphia Trip",
+  "language_": "Russian",
+  "language": "English",
+  "target": "Philadelfiya",
+  "primary_category_": "Education",
+  "primary_category": "Entertainment",
+  "first_name": "Kazimir",
+  "last_name": "Krymov",
+  "demo_user": "",
+  "demo_password": "",
+  "notes": "",
+  "description": "The main attractions of Philadelphia right on your phone! Work with a map and learn about places in Philadelphia",
+  "keywords": "travel, trip, around the world, place, map",
+  "promotional_text": "Learn new things about sights!",
+  "git_url": "https://github.com/risakov/fastlane.git"
+}
